@@ -1,4 +1,4 @@
-# Yamaha Synth LCD Firmware Patches
+# Synthesizer LCD Firmware Patches
 
 It's common for hardware devices to include LCD displays built around HD44780-compatible LCD controllers. Despite first being manufactured in the early 80s, displays featuring this controller are so common that technicians can easily find compatible replacements for 40 year old[^1] displays today.
 
